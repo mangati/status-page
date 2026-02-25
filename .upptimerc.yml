@@ -1,0 +1,28 @@
+owner: mangati
+repo: status-page
+
+site: status.mangati.com
+status-website:
+  cname: status.mangati.com
+  logoUrl: https://mangati.com/images/logo-navbar.png
+  name: Mangati Status
+  introTitle: "Mangati Systems Status"
+  introMessage: "Status and uptime information for our cloud services."
+
+sites:
+  - name: Mangati Cloud
+    url: https://cloud.mangati.com/
+  - name: Painel
+    url: https://painel.mangati.com/
+  - name: Triagem
+    url: https://triagem.mangati.com/
+  - name: Agenda
+    url: https://agenda.mangati.com/
+  - name: Avaliação
+    url: https://avaliacao.mangati.com/
+  - name: Notificação
+    url: https://notificacao.mangati.com/
+  - name: Monitor
+    url: https://monitor.mangati.com/
+  - name: Novo SGA
+    url: https://novosga.com/
