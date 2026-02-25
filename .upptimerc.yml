@@ -24,7 +24,7 @@ sites:
     url: https://notificacao.mangati.com/
   - name: Monitor
     url: https://monitor.mangati.com/
-  - name: Novo SGA
+  - name: NovoSGA Online
     url: https://novosga.com/
 
 workflowSchedule:
