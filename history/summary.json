@@ -4,36 +4,40 @@
     "url": "https://cloud.mangati.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.mangati.com.ico",
     "slug": "mangati-cloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 804,
     "timeDay": 1009,
     "timeWeek": 766,
     "timeMonth": 764,
     "timeYear": 804,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-07": 5
+    }
   },
   {
     "name": "Painel",
     "url": "https://painel.mangati.com/",
     "icon": "https://icons.duckduckgo.com/ip3/painel.mangati.com.ico",
     "slug": "painel",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 655,
     "timeDay": 742,
     "timeWeek": 631,
     "timeMonth": 642,
     "timeYear": 655,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-07": 3
+    }
   },
   {
     "name": "Triagem",
@@ -58,10 +62,10 @@
     "url": "https://agenda.mangati.com/",
     "icon": "https://icons.duckduckgo.com/ip3/agenda.mangati.com.ico",
     "slug": "agenda",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 541,
@@ -69,7 +73,9 @@
     "timeWeek": 531,
     "timeMonth": 529,
     "timeYear": 541,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-07": 2
+    }
   },
   {
     "name": "Avaliação",
