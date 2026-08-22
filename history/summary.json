@@ -4,17 +4,17 @@
     "url": "https://cloud.mangati.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.mangati.com.ico",
     "slug": "mangati-cloud",
-    "status": "up",
-    "uptime": "96.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.15%",
-    "time": 898,
-    "timeDay": 959,
-    "timeWeek": 1004,
-    "timeMonth": 986,
-    "timeYear": 898,
+    "status": "down",
+    "uptime": "96.17%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "96.17%",
+    "time": 931,
+    "timeDay": 3940,
+    "timeWeek": 1743,
+    "timeMonth": 1171,
+    "timeYear": 931,
     "dailyMinutesDown": {
       "2026-04-14": 29,
       "2026-04-13": 1440,
@@ -24,7 +24,8 @@
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 911,
-      "2026-06-02": 239
+      "2026-06-02": 239,
+      "2026-08-22": 6
     }
   },
   {
