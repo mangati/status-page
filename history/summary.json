@@ -4,16 +4,16 @@
     "url": "https://cloud.mangati.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.mangati.com.ico",
     "slug": "mangati-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "96.15%",
-    "uptimeDay": "96.45%",
+    "uptimeDay": "96.44%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "96.15%",
     "time": 1174,
-    "timeDay": 18113,
+    "timeDay": 18184,
     "timeWeek": 6712,
-    "timeMonth": 2544,
+    "timeMonth": 2551,
     "timeYear": 1174,
     "dailyMinutesDown": {
       "2026-04-14": 29,
@@ -25,7 +25,8 @@
       "2026-04-08": 1440,
       "2026-04-07": 911,
       "2026-06-02": 239,
-      "2026-08-22": 51
+      "2026-08-22": 51,
+      "2026-08-23": 0
     }
   },
   {
@@ -40,9 +41,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.85%",
     "time": 851,
-    "timeDay": 12451,
-    "timeWeek": 4640,
-    "timeMonth": 1737,
+    "timeDay": 12470,
+    "timeWeek": 4634,
+    "timeMonth": 1743,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2026-04-07": 63,
@@ -58,18 +59,17 @@
     "slug": "triagem",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 557,
-    "timeDay": 509,
-    "timeWeek": 753,
-    "timeMonth": 589,
-    "timeYear": 557,
+    "time": 558,
+    "timeDay": 530,
+    "timeWeek": 552,
+    "timeMonth": 590,
+    "timeYear": 558,
     "dailyMinutesDown": {
-      "2026-06-02": 232,
-      "2026-08-22": 9
+      "2026-06-02": 232
     }
   },
   {
@@ -84,9 +84,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 640,
-    "timeDay": 637,
-    "timeWeek": 700,
-    "timeMonth": 654,
+    "timeDay": 760,
+    "timeWeek": 706,
+    "timeMonth": 659,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2026-04-07": 61,
@@ -100,18 +100,16 @@
     "slug": "avaliacao",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 660,
-    "timeDay": 3550,
-    "timeWeek": 1672,
-    "timeMonth": 924,
-    "timeYear": 660,
-    "dailyMinutesDown": {
-      "2026-08-22": 5
-    }
+    "time": 661,
+    "timeDay": 3582,
+    "timeWeek": 1662,
+    "timeMonth": 929,
+    "timeYear": 661,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Notificação",
@@ -124,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 620,
-    "timeDay": 603,
-    "timeWeek": 663,
-    "timeMonth": 648,
-    "timeYear": 620,
+    "time": 621,
+    "timeDay": 771,
+    "timeWeek": 664,
+    "timeMonth": 655,
+    "timeYear": 621,
     "dailyMinutesDown": {}
   },
   {
@@ -142,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 613,
-    "timeDay": 609,
-    "timeWeek": 698,
-    "timeMonth": 654,
-    "timeYear": 613,
+    "time": 614,
+    "timeDay": 800,
+    "timeWeek": 708,
+    "timeMonth": 662,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2026-04-16": 64
     }
@@ -162,11 +160,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 689,
-    "timeWeek": 706,
-    "timeMonth": 666,
-    "timeYear": 578,
+    "time": 579,
+    "timeDay": 763,
+    "timeWeek": 709,
+    "timeMonth": 669,
+    "timeYear": 579,
     "dailyMinutesDown": {}
   }
 ]
